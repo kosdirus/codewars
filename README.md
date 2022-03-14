@@ -1,2 +1,2 @@
-# go-learning
+# codewars
 My GO learning path
